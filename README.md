@@ -16,4 +16,4 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 5)tokens are extracted out and term frequecies are calculated using calculated using group by and aggregated count function
 6)similarly document frequencies are calculated using group by and aggregated count distinct function
 7)idf score is calculated according to the formula :
-     
+     ![alt text](https://github.com/ss0242/course-project-ITCS-6190/blob/master/formula.PNG)
