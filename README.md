@@ -44,6 +44,10 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 <br>Eclipse for Scala IDE
 
 <h5>Illustrative Results and Examples</h5>
+![1](1.PNG)
+![2](2.PNG)
+
+
 
 
 
