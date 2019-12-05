@@ -19,10 +19,10 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 
 ![Formula](formula.PNG)
 
-8)the TF-IDF score is calculated for each token by multiplying the TF with IDF
-9)user is asked for input
-10)the matching documents are extracted which contains the keywords and grouped by the title
-11)the TF-IDF of every keyword is added and the documents are order in the decresing order of TF-IDF scores
+<br>8)the TF-IDF score is calculated for each token by multiplying the TF with IDF
+<br>9)user is asked for input
+<br>10)the matching documents are extracted which contains the keywords and grouped by the title
+<br>11)the TF-IDF of every keyword is added and the documents are order in the decresing order of TF-IDF scores
 
 <h5>Final Product</h5>
 <br>The final product is the Movie-recommendation system that gives results on the basis of Amazon reviews
@@ -31,4 +31,21 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 <br>A lot of people have specific taste of movies and albums. They know what they are looking for. This system will help them get the movies they are looking for. It's similar to asking a friend for a suggestion of a movie by describing the type of movie someone is interested in.
 
 <h5>Dataset</h5>
-<br>
+<br>https://nijianmo.github.io/amazon/index.html
+<br>This dataset contains reviews of various amazon products ae well as thier meta-data
+
+<h5>Frameworks used</h5>
+<br>Spark-Core</br>
+<br>Spark-SQL
+
+<h5>Anyother software and packages used </h5>
+<br>Scala programming language
+<br>SBT: a build tool on the top of maven
+<br>Eclipse for Scala IDE
+
+<h5>Illustrative Results and Examples</h5>
+
+
+
+
+
