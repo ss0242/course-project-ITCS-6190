@@ -46,8 +46,37 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 <h5>Illustrative Results and Examples</h5>
 <br>
 
-![Image of Yaktocat](1.PNG)
+![Image of Yaktocat1](1.PNG)
 
+![Image of Yaktocat2](2.PNG)
+
+![Image of Yaktocat3](3.PNG)
+
+![Image of Yaktocat4](4.PNG)
+
+![Image of Yaktocat5](5.PNG)
+
+
+<h5>Performance Evalutaion</h5>
+<br>Shortly......
+<br>Qualitatively, The Movies obtained were related to keyword supplied (if we google the movie, and read it's plot and description)
+
+<h5>Tasks Accomplished</h5>
+<br>Will be definated done: TF-IDF implemetation
+<br>Likely to do: None </br>
+<br>ideally to do: None </br>
+
+<h5>Additional Observations</h5>
+<br>COLLECT_SET is highly performace intensive
+<br> SBT is an excellent tool. If you want to change the version of your scala compiler, simply change the version number. All the dependecies will be automatically resolved and code will be compiled by new version
+
+<h5>Division of Work</h5>
+<br>Sagar Sharma
+
+
+<h5>Important Reference </h5>
+<br>https://dzone.com/articles/calculating-tf-idf-with-apache-spark
+<br>https://www.youtube.com/watch?v=qrPjAyIapFY
 
 
 
