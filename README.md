@@ -45,7 +45,8 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 
 <h5>Illustrative Results and Examples</h5>
 <br>
-![Image of Yaktocat](1.png)
+
+![Image of Yaktocat](1.PNG)
 
 
 
