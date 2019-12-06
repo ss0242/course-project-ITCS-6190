@@ -8,7 +8,7 @@ Sagar Sharma
 The project tries to recommend movies tiles and music albums based on the TF-IDF score of the keywords supplied by the user.
 The final TF-IDF score is the addition of individual TF-IDF scores of each keyword.
 
-<h5>Tasks involvedand approach</h5>
+<h5>Tasks involved and approach</h5>
 <br>1)transforming the Amazon reviews dataset in to appropriate format. The reviews file is a big json file consisting of item-id known as asin(in the terminologies of amazon) . This json has to be parsed and the reviews must be grouped by asin. Using the metadata.json file this asin is mapped on to the title and a saperate file is created corresponding to every title. Each file contains reviews corresponding to that title.
 <br>2)the data set is loaded in the form of dataframe
 <br>3)each document is assigned an id
@@ -80,6 +80,10 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 <h5>Important Reference </h5>
 <br>https://dzone.com/articles/calculating-tf-idf-with-apache-spark
 <br>https://www.youtube.com/watch?v=qrPjAyIapFY
+
+based on the works of Arseniy Tashoyan
+(https://github.com/tashoyan/spark-sql-tfidf)
+
 
 
 
