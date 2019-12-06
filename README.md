@@ -82,8 +82,6 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 <br>https://dzone.com/articles/calculating-tf-idf-with-apache-spark
 <br>https://www.youtube.com/watch?v=qrPjAyIapFY
 
-based on the works of Arseniy Tashoyan
-(https://github.com/tashoyan/spark-sql-tfidf)
 
 
 
