@@ -12,7 +12,7 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 <br>1)transforming the Amazon reviews dataset in to appropriate format. The reviews file is a big json file consisting of item-id known as asin(in the terminologies of amazon) . This json has to be parsed and the reviews must be grouped by asin. Using the metadata.json file this asin is mapped on to the title and a saperate file is created corresponding to every title. Each file contains reviews corresponding to that title.
 <br>2)the data set is loaded in the form of dataframe
 <br>3)each document is assigned an id
-<br>4)each document is preprocessed to remove stop words (using built-in function) and a few more words have been added to serve the purpose of the system
+<br>4)the document is unfolded into tokens in order to calculate Term Frequency
 <br>5)tokens are extracted out and term frequecies are calculated using calculated using group by and aggregated count function
 <br>6)similarly document frequencies are calculated using group by and aggregated count distinct function
 <br>7)idf score is calculated according to the formula :
