@@ -58,8 +58,11 @@ The final TF-IDF score is the addition of individual TF-IDF scores of each keywo
 
 
 <h5>Performance Evalutaion</h5>
-<br>Shortly......
+<br>
 <br>Qualitatively, The Movies obtained were related to keyword supplied (if we google the movie, and read it's plot and description)
+<br>Please refer the plot for the movie Chapter X live at 
+<br>https://www.sparknotes.com/lit/narrative/section7/
+<br>The movie is quite resonant with words such as "country" and "trust"
 
 <h5>Tasks Accomplished</h5>
 <br>Will be definated done: TF-IDF implemetation
