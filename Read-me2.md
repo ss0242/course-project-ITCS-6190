@@ -77,27 +77,28 @@ TF-IDF(Document) = TF-IDF(Keyword1) + TF-IDF(Keyword2) +TF-IDF(Keyword3) +TF-IDF
 
 5)The top 5 documents with the decreasing score of TF-IDF is shown along with the file-path(treat file path as URL of the resource)
 
-##Illustrative Examples
+## Illustrative Examples
 
+1)
 ![Image of Yaktocat1](1.PNG)
 
 
-
+2)
 ![Image of Yaktocat2](2.PNG)
 
 
 
-
+3)
 ![Image of Yaktocat3](3.PNG)
 
 
 
-
+4)
 ![Image of Yaktocat4](4.PNG)
 
 
 
-
+5)
 ![Image of Yaktocat5](5.PNG)
 
 
