@@ -219,9 +219,7 @@ Artifact | Description
 SimpleApp| the project(an attempt) to preprocess data: Was highly compute intensive
 documentPreprocessor.py|code to preprocess the data in pyspark (please read the report for functionality): Was highly compute intensive
 All-new| project of the search engine
-
-
-movie-recommendation-all-new-assembly-0.1-SNAPSHOT.jar : jar to run in cluster
+movie-recommendation-all-new-assembly-0.1-SNAPSHOT.jar|jar to run in cluster
 
 ## References
 https://dzone.com/articles/calculating-tf-idf-with-apache-spark
