@@ -168,7 +168,7 @@ So it is safe to say that Movie and Music Search Engine is performing upto the m
 
 ### Document preprocessor
 
-Here is my attempt to process the document using the the method of Hive-Context: collect_set() and pandas UDF in pyspark
+Here is my attempt to process the document using the  pandas UDF in pyspark
 
 ```python
 def collect_array_grouped(df, groupbyCols, aggregateCol, outputCol):
