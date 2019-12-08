@@ -77,30 +77,28 @@ The formula for TF-IDF is as follows:
 The project folder all-new implements the process of calculating TF-IDF as well as searches the document based on TF-IDF weights.
 
 
-1)the documents are taken into the data frame and are assigned document ID
+1) the documents are taken into the data frame and are assigned document ID
 
-2)All the punctuation, stop-words and a few common words as as love, climax, happy, ending is removed
+2) All the punctuation, stop-words and a few common words as as love, climax, happy, ending is removed
 
-3)the original dataframe is transformed to get a new dataframe with 
+3) the original dataframe is transformed to get a new dataframe with 
   document_ID and term as the columns of the dataframe
   
-4)the term frequency, document frequency and inverse document frequencies are calculated using aggregate functions
+4) the term frequency, document frequency and inverse document frequencies are calculated using aggregate functions
 
-5)terms and their respective TF-IDF score are stored in cache
+5) terms and their respective TF-IDF score are stored in cache
 
  
 ## Document Searcher
-1)the user supplied keywords are taken into a set
+1) the user supplied keywords are taken into a set
 
-2)set of matching documents are retrieved which contains the user supplied keywords
+2) set of matching documents are retrieved which contains the user supplied keywords
 
 3) The total TF-IDF score is calculated with the help of the formula
-
 ```
 TF-IDF(Document) = TF-IDF(Keyword1) + TF-IDF(Keyword2) +TF-IDF(Keyword3) +TF-IDF(Keywordn)
 ```
-
-4)The top 5 documents with the decreasing score of TF-IDF is shown along with the file-path(treat file path as URL of the resource)
+4) The top 5 documents with the decreasing score of TF-IDF is shown along with the file-path(treat file path as URL of the resource)
 
 
 
