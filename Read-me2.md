@@ -237,6 +237,15 @@ documentPreprocessor.py|code to preprocess the data in pyspark (please read the 
 All-new| project of the search engine
 movie-recommendation-all-new-assembly-0.1-SNAPSHOT.jar|jar to run in cluster
 
+## Tasks
+Task | Category | Accomplished/Not Accomplished
+--- | --- | ---
+TF-IDF | Will definately accomplish | Accomplished
+Sentiment Analysis | Likely to accomplish | Not Accomplished
+Web App| Ideally accomplish | Not Accomplished
+
+
+
 ## References
 https://dzone.com/articles/calculating-tf-idf-with-apache-spark
 
