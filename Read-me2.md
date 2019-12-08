@@ -115,12 +115,12 @@ The final product is a TF-IDF based search engine of Movies and Music Albums
 
 ## Steps to run on DSBA cluster
 1) An Assembly jar file is provided to you 
-"movie-recommendation-all-new-assembly-0.1-SNAPSHOT"
+"movie-recommendation-all-new-assembly-0.1-SNAPSHOT.jar"
 2) copy the jar on DSBA cluster
 3) copy the movies_db folder to the DSBA cluster (the folder contains 4 sample movies and music albums)
 4) Run the following command
 ```
-spark-submit movie-recommendation-all-new-assembly-0.1-SNAPSHOT movies_db
+spark-submit movie-recommendation-all-new-assembly-0.1-SNAPSHOT.jar movies_db
 
 ```
 
