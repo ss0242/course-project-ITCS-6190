@@ -218,6 +218,17 @@ title | review_text_all
 
 In the end every row will be written in a separate file to get the documents containing the reviews.
 
+
+
+## Challenges 
+
+methods such as Collect_set and pandas_UDF are very compute intensive even at cluster level
+
+## Interesting Stuff
+SBT is an excellent build tool, build on the top of maven to  resolve dependencies.
+
+It requires only a single line code change in order to compile your project with a new scala version
+
 ## Artifacts
 Artifact | Description 
 --- | --- 
